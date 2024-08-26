@@ -1,10 +1,10 @@
 body {
     color: #fe7b30;
-    background: rgb(255, 255, 255);
+    background: rgb(97, 96, 96);
     margin: 0px;
 }
 header{
-    border-bottom: solid 2px rgb(0, 0, 0);
+    border-bottom: solid 2px rgb(251, 255, 0);
     padding: 20px;
     font-size: 32px;
     color: rgb(128, 9, 112);
@@ -18,9 +18,4 @@ section {
 }
 chamada-texto {
     margin-right: 6%;
-}
-.imagem{
-    width: 50px;
-    height: 50px;
-    align-items: center;
 }
