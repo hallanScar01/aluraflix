@@ -1,4 +1,11 @@
 body {
     color: white;
     background: gray;
+    margin: 0px;
+}
+header{
+    border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(254, 254, 255);
 }
