@@ -2,6 +2,7 @@ body {
     color: #fe7b30;
     background: rgb(97, 96, 96);
     margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
 }
 header{
     border-bottom: solid 2px rgb(251, 255, 0);
@@ -24,6 +25,13 @@ section {
 chamada-texto {
     margin-right: 6%;
 }
+h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
 #imagem{
     im
 }
