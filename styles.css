@@ -14,23 +14,14 @@ header{
     justify-content: center;
     background-color: #333;
     padding: 10px;
-}  
-
+}           
 section {
     background: rgb(49, 48, 48)
-    padding-bottom 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-.chamada {
-    background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-  }
-
+}
 chamada-texto {
     margin-right: 6%;
 }
@@ -46,13 +37,4 @@ h1 {
 }
 img {
     height: 200px;
-  }
-  
-  .categoria-videos {
-    display: flex;
-    gap: 10px;
-  }
-  section {
-    padding-left: 20px;
-    padding-right: 20px;
   }
